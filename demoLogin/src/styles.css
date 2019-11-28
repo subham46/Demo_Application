@@ -4,14 +4,20 @@
 /*see styles.css at root of project for global css*/
 
 body {
-    background-color: #000000;
+    background-color: #0000004b;
 }
+
+
+
 
 
 .logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: 2px solid #c1c1c1;
+    border-radius: 50px;
+    
   }
   
   .input-text {
